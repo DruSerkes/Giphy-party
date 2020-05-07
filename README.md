@@ -1,5 +1,8 @@
 Giphy-Party! 
 
+Link to Project:
+https://druserkes.github.io/Giphy-party/
+(I don't think it works on github hosting)
 
 **
 What this project is about:
