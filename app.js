@@ -1,3 +1,4 @@
+import api_key from './secrets';
 const $form = $('#searchform');
 const $searchInput = $('#searchInput');
 const $gifContainer = $('#gif-container');
@@ -33,5 +34,3 @@ $form.on('submit', async function(e) {
 $('#remove').on('click', (e) => {
 	$gifContainer.empty();
 });
-
-
