@@ -1,4 +1,4 @@
-import api_key from './secrets';
+const api_key = 'cUHWqT99EuUFVOfIEpNJHdqC4dj0Si2q';
 const $form = $('#searchform');
 const $searchInput = $('#searchInput');
 const $gifContainer = $('#gif-container');
